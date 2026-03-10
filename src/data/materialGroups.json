@@ -1,0 +1,91 @@
+{
+    "order": [
+        "별조각",
+        "계절",
+        "달걀",
+        "버섯",
+        "오너먼트",
+        "깃털",
+        "나무",
+        "돌·광석",
+        "과일·음식",
+        "조개",
+        "꽃",
+        "기타"
+    ],
+    "groups": {
+        "별조각": [
+            "fragment"
+        ],
+        "나무": [
+            "wood",
+            "branch",
+            "acorn",
+            "pine cone",
+            "wasp nest",
+            "shoot",
+            "piece"
+        ],
+        "돌·광석": [
+            "stone",
+            "nugget",
+            "clay"
+        ],
+        "과일·음식": [
+            "apple",
+            "cherry",
+            "coconut",
+            "orange",
+            "peach",
+            "pear",
+            "carrot",
+            "potato",
+            "tomato",
+            "turnips",
+            "wheat",
+            "pumpkin",
+            "sugar",
+            "flour"
+        ],
+        "조개": [
+            "shell",
+            "clam",
+            "conch",
+            "coral",
+            "cowrie",
+            "snail",
+            "comb",
+            "dollar",
+            "pearl"
+        ],
+        "꽃": [
+            "cosmos",
+            "lilies",
+            "roses",
+            "tulips",
+            "hyacinths",
+            "pansies",
+            "windflowers",
+            "mums"
+        ],
+        "달걀": [
+            "egg"
+        ],
+        "버섯": [
+            "mushroom"
+        ],
+        "계절": [
+            "bamboo",
+            "summer shell",
+            "petal",
+            "snowflake",
+            "leaf"
+        ],
+        "오너먼트": [
+            "ornament"
+        ],
+        "깃털": [
+            "feather"
+        ]
+    }
+}

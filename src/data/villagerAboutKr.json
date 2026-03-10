@@ -1,0 +1,202 @@
+{
+    "species": {
+        "alligator": {
+            "ko": "악어",
+            "img": "/src/image/species/alligator.png"
+        },
+        "anteater": {
+            "ko": "개미핥기",
+            "img": "/src/image/species/anteater.png"
+        },
+        "bear": {
+            "ko": "곰",
+            "img": "/src/image/species/bear.png"
+        },
+        "bear cub": {
+            "ko": "꼬마곰",
+            "img": "/src/image/species/bear_cub.png"
+        },
+        "bird": {
+            "ko": "새",
+            "img": "/src/image/species/bird.png"
+        },
+        "bull": {
+            "ko": "황소",
+            "img": "/src/image/species/bull.png"
+        },
+        "cat": {
+            "ko": "고양이",
+            "img": "/src/image/species/cat.png"
+        },
+        "chicken": {
+            "ko": "닭",
+            "img": "/src/image/species/chicken.png"
+        },
+        "cow": {
+            "ko": "암소",
+            "img": "/src/image/species/cow.png"
+        },
+        "deer": {
+            "ko": "사슴",
+            "img": "/src/image/species/deer.png"
+        },
+        "dog": {
+            "ko": "개",
+            "img": "/src/image/species/dog.png"
+        },
+        "duck": {
+            "ko": "오리",
+            "img": "/src/image/species/duck.png"
+        },
+        "eagle": {
+            "ko": "독수리",
+            "img": "/src/image/species/eagle.png"
+        },
+        "elephant": {
+            "ko": "코끼리",
+            "img": "/src/image/species/elephant.png"
+        },
+        "frog": {
+            "ko": "개구리",
+            "img": "/src/image/species/frog.png"
+        },
+        "goat": {
+            "ko": "염소",
+            "img": "/src/image/species/goat.png"
+        },
+        "gorilla": {
+            "ko": "고릴라",
+            "img": "/src/image/species/gorilla.png"
+        },
+        "hamster": {
+            "ko": "햄스터",
+            "img": "/src/image/species/hamster.png"
+        },
+        "hippo": {
+            "ko": "하마",
+            "img": "/src/image/species/hippo.png"
+        },
+        "horse": {
+            "ko": "말",
+            "img": "/src/image/species/horse.png"
+        },
+        "koala": {
+            "ko": "코알라",
+            "img": "/src/image/species/koala.png"
+        },
+        "kangaroo": {
+            "ko": "캥거루",
+            "img": "/src/image/species/kangaroo.png"
+        },
+        "lion": {
+            "ko": "사자",
+            "img": "/src/image/species/lion.png"
+        },
+        "monkey": {
+            "ko": "원숭이",
+            "img": "/src/image/species/monkey.png"
+        },
+        "mouse": {
+            "ko": "쥐",
+            "img": "/src/image/species/mouse.png"
+        },
+        "octopus": {
+            "ko": "문어",
+            "img": "/src/image/species/octopus.png"
+        },
+        "ostrich": {
+            "ko": "타조",
+            "img": "/src/image/species/ostrich.png"
+        },
+        "penguin": {
+            "ko": "펭귄",
+            "img": "/src/image/species/penguin.png"
+        },
+        "pig": {
+            "ko": "돼지",
+            "img": "/src/image/species/pig.png"
+        },
+        "rabbit": {
+            "ko": "토끼",
+            "img": "/src/image/species/rabbit.png"
+        },
+        "rhino": {
+            "ko": "코뿔소",
+            "img": "/src/image/species/rhino.png"
+        },
+        "sheep": {
+            "ko": "양",
+            "img": "/src/image/species/sheep.png"
+        },
+        "squirrel": {
+            "ko": "다람쥐",
+            "img": "/src/image/species/squirrel.png"
+        },
+        "tiger": {
+            "ko": "호랑이",
+            "img": "/src/image/species/tiger.png"
+        },
+        "wolf": {
+            "ko": "늑대",
+            "img": "/src/image/species/wolf.png"
+        }
+    },
+    "personality": {
+        "big_sister": {
+            "ko": "단순활발",
+            "img": "/src/image/personality/big_sister.png"
+        },
+        "cranky": {
+            "ko": "무뚝뚝",
+            "img": "/src/image/personality/cranky.png"
+        },
+        "jock": {
+            "ko": "운동광",
+            "img": "/src/image/personality/jock.png"
+        },
+        "lazy": {
+            "ko": "먹보",
+            "img": "/src/image/personality/lazy.png"
+        },
+        "normal": {
+            "ko": "친절함",
+            "img": "/src/image/personality/normal.png"
+        },
+        "peppy": {
+            "ko": "아이돌",
+            "img": "/src/image/personality/peppy.png"
+        },
+        "smug": {
+            "ko": "느끼함",
+            "img": "/src/image/personality/smug.png"
+        },
+        "snooty": {
+            "ko": "성숙함",
+            "img": "/src/image/personality/snooty.png"
+        }
+    },
+    "birthdayMonth": {
+        "January": "1월",
+        "February": "2월",
+        "March": "3월",
+        "April": "4월",
+        "May": "5월",
+        "June": "6월",
+        "July": "7월",
+        "August": "8월",
+        "September": "9월",
+        "October": "10월",
+        "November": "11월",
+        "December": "12월"
+    },
+    "gender": {
+        "Male": {
+            "ko": "남",
+            "img": "/src/image/male.png"
+        },
+        "Female": {
+            "ko": "여",
+            "img": "/src/image/female.png"
+        }
+    }
+}
