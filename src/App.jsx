@@ -14,6 +14,7 @@ import MaterialsList from "./components/MaterialsList";
 import Material from "./components/Material";
 import Footer from "./components/Footer";
 import ScrollTop from "./components/ScrollTop";
+import ResolutionOverlay from "./components/ResolutionOverlay"
 
 export default function App() {
   const navigate = useNavigate();
@@ -41,6 +42,7 @@ export default function App() {
   return (
     <>
       <GlobalStyle />
+      <ResolutionOverlay />
       <ScrollTop />
 
 
