@@ -238,7 +238,6 @@ const FilterWrap = styled.div`
   margin-bottom: 20px;
   align-self: flex-end;
   z-index: 9999;
-
 `;
 
 const SpeciesDropdown = styled.div`
@@ -319,7 +318,7 @@ const InitialRow = styled.div`
   gap: 6px;
   margin-bottom: 20px;
   align-self: flex-end;
-  z-index: 0;
+  z-index: 99;
 
   button {
     padding: 6px 10px;
