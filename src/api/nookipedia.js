@@ -3,7 +3,9 @@ import axios from "axios";
 const API_KEY = import.meta.env.VITE_NOOKIPEDIA_API_KEY;
 
 export const nookipedia = axios.create({
-    baseURL: "https://api.nookipedia.com",
+    // 🔴 기존: baseURL: "https://api.nookipedia.com",
+    // 🟢 변경: Vite 프록시로 요청을 우회시키기 위해 상대 경로로 적어줍니다.
+    baseURL: "/api", 
     headers: {
         "X-API-KEY": API_KEY,
         "Accept-Version": "1.0.0",
